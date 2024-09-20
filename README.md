@@ -15,4 +15,5 @@ Key Highlights:
 
 • Deployed model to make accurate price predictions for new properties.
 
-Tech Stack: Python, Pandas, NumPy, Scikit-learn, Matplotlib
+Tech Stack
+Python, Pandas, NumPy, Scikit-learn, Matplotlib
