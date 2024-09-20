@@ -1,12 +1,18 @@
 # FutureIntern_DS_01
-Random Password Generator
+House Price Prediction Using Machine Learning
 
-I created a Random Password Generator in Python to enhance online security by generating strong, unique passwords. This tool helps users easily create passwords that are difficult to crack, promoting better cybersecurity practices.
+Developed a machine learning model to predict house prices based on key features such as square footage, number of bedrooms, and other house attributes.
 
-✨ Key Features:
+Key Highlights:
 
-Customizable Options: Users can specify the length and complexity of the passwords, including uppercase letters, lowercase letters, numbers, and special characters.
-User-Friendly Interface: Simple prompts guide users through the process, making it accessible for everyone.
-High Entropy: The generated passwords are designed to be random and secure, minimizing the risk of unauthorized access.
-🔧 Technologies Used:
-Python
+• Preprocessed data by handling missing values, encoding categorical variables, and scaling numerical features.
+
+• Built and trained a Linear Regression model to predict house prices.
+
+• Evaluated model performance using Mean Squared Error (MSE) and R-squared metrics.
+
+• Visualized the relationship between actual and predicted prices for better insights.
+
+• Deployed model to make accurate price predictions for new properties.
+
+Tech Stack: Python, Pandas, NumPy, Scikit-learn, Matplotlib
